@@ -1,5 +1,5 @@
 def main():
-    print("Hello from cmdwrapper!")
+    print("Hello from execsentry!")
 
 if __name__ == "__main__":
     main()
